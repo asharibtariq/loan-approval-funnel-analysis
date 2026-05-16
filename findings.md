@@ -160,3 +160,12 @@ Goal: Identify what drives loan approval and rejection
 
 &#x20;  the gap between salaried and contract workers is 23 percentage points
 
+
+
+## Visualization
+A Power BI dashboard was built on top of these SQL findings, connecting 
+directly to the PostgreSQL database. It allows filtering by employment 
+status, credit band, DTI band, and risk tier to explore approval patterns 
+interactively.
+
+Dashboard file: loan_approval_dashboard.pbix

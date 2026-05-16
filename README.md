@@ -54,3 +54,14 @@ employment status, income, loan purpose, and property area.
 
 
 
+## Dashboard
+Built in Power BI Desktop connected live to PostgreSQL.
+
+![Dashboard](screenshots/dashboard.png)
+
+### Visuals
+* KPI card showing overall 30% approval rate
+* Approval rate by employment status - salaried at 43% vs unemployed at 0.7%
+* Approval rate by credit score band - 4% below 500, 65% above 750
+* Approval rate by DTI band - 53% under 20% DTI, 8% above 50%
+* Risk tier breakdown - 59% of applicants are high risk, approved at 16%
