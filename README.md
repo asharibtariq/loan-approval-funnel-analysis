@@ -57,7 +57,7 @@ employment status, income, loan purpose, and property area.
 ## Dashboard
 Built in Power BI Desktop connected live to PostgreSQL.
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](loan_approval_dashboard.png)
 
 ### Visuals
 * KPI card showing overall 30% approval rate
